@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          This is Fmodes Netlify App Lancher!</code>
+          This is Fmodes Netlify App Lancher</code>
         </p>
       </main>
 
